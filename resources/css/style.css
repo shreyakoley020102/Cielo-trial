@@ -192,12 +192,12 @@ header{
   height: 100px;
   width: auto;
   float: left;
-  margin-top: 20px;
+  margin-top: 6px;
 }
 
 .logo-black{
   display: none;
-  height: 50px;
+  height: 60px;
   width: auto;
   float: left;
   margin: 5px 0;
@@ -236,7 +236,7 @@ header{
 
 .mobile-nav-icon{
   float: right;
-  margin-top: 30px;
+  margin-top: 20px;
   cursor: pointer;
   display: none;
 }
@@ -396,3 +396,4 @@ footer p {
 .js--wp-3.animated {
     opacity: 1;
 }
+
